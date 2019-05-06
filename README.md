@@ -18,5 +18,6 @@ DataXMerckChallenge
     └── TestSet
     └── TrainingSet
 └──image
+└──results
 └──scripts
 ```
